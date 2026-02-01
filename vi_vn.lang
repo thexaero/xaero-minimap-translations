@@ -1,6 +1,3 @@
-gui.xaero_confirm=Xác nhận
-gui.xaero_cancel=Hủy bỏ
-gui.xaero_back=Quay lại
 gui.xaero_delete=Xóa bỏ
 gui.xaero_OK=OK
 gui.xaero_add_edit=Thêm/Sửa
@@ -55,8 +52,6 @@ gui.xaero_yellow=Vàng
 gui.xaero_white=Trắng
 gui.xaero_zoom_in=Thu phóng Bản đồ Mini
 gui.xaero_zoom_out=Phóng to Bản đồ Mini
-gui.xaero_on=BẬT
-gui.xaero_off=TẮT
 gui.xaero_preset_topleft=Góc trên bên trái
 gui.xaero_preset_topright=Góc trên bên phải
 gui.xaero_waypoint_teleport=Dịch chuyển tức thời
@@ -69,8 +64,6 @@ gui.xaero_change_position=Thay đổi vị trí
 gui.xaero_preset_bottom_left=Góc dưới bên trái
 gui.xaero_preset_bottom_right=Góc dưới bên phải
 gui.xaero_ingame_waypoints=Điểm đánh dấu trong trò chơi
-gui.xaero_next=Tiếp theo >>
-gui.xaero_previous=<< Trước
 gui.xaero_lock_north=Khóa Bắc cho Bản đồ Mini
 gui.xaero_deathpoint=Điểm chết gần nhất
 gui.xaero_deathpoint_old=Cái chết cũ
@@ -273,7 +266,6 @@ gui.xaero_names_always=Luôn luôn
 gui.xaero_names_off=Không Tên
 gui.xaero_entity_radar_type=Loại=
 gui.xaero_entity_radar_color=Màu sắc=
-gui.xaero_entity_radar_visibility=Hiển thị=
 gui.xaero_entity_radar_names=Tên=
 gui.xaero_entity_radar_icons=Biểu tượng/Đầu=
 gui.xaero_box_entity_radar_names=Hiển thị tên thực thể dưới các chấm hoặc biểu tượng/đầu. \n \n Tùy chọn 'Danh sách Người chơi' - hiển thị chỉ khi phím 'Liệt kê Người chơi' (mặc định là TAB) được nhấn.
@@ -358,8 +350,6 @@ gui.xaero_box_ingame_waypoint_icon_scale=Tỷ lệ của biểu tượng điểm
 gui.xaero_ingame_waypoint_icon_scale=Tỷ lệ Biểu tượng Điểm đánh dấu Trong Trò chơi
 gui.xaero_ingame_waypoint_close_scale=Tỷ lệ Điểm đánh dấu Trong Trò chơi khi Gần
 gui.xaero_box_ingame_waypoint_close_scale=Tỷ lệ của điểm đánh dấu trong trò chơi khi bạn ở rất gần chúng. Để thay đổi tỷ lệ của điểm đánh dấu xa hơn, sử dụng các cài đặt 'Tỷ lệ Biểu tượng Điểm đánh dấu Trong Trò chơi', 'Tỷ lệ Văn bản Khoảng cách WP' và 'Tỷ lệ Văn bản Tên WP'.
-gui.xaero_settings_search=Tìm kiếm Cài đặt
-gui.xaero_settings_search_placeholder=Tìm kiếm...
 gui.xaero_minimap_view_settings=Cài đặt Hiển thị
 gui.xaero_entity_radar_settings=Cài đặt Radar Thực thể
 gui.xaero_entity_radar_categories=Cài đặt Loại Thực thể
@@ -369,7 +359,6 @@ gui.xaero_minimap_info_settings=Cài đặt Thông tin
 gui.xaero_waypoint_settings=Cài đặt Điểm đánh dấu
 gui.xaero_minimap_misc_settings=Cài đặt Khác
 gui.xaero_entity_radar_category=Loại=
-gui.xaero_settings_not_found=Không tìm thấy mục nhập phù hợp với đầu vào của bạn!
 gui.xaero_multiple_waypoint_info=Khoảng cách Điểm đánh dấu Nhiều
 gui.xaero_box_multiple_waypoint_info=Có thể hiển thị khoảng cách cho nhiều điểm đánh dấu trong trò chơi cùng một lúc hay không. Theo mặc định, chỉ hiển thị khoảng cách đến điểm đánh dấu gần nhất với tâm chữ thập. Sử dụng cài đặt 'Khoảng Cách Tới WP' để cấu hình điểm đánh dấu nào có thể hiển thị khoảng cách.
 gui.xaero_while_sneaking=Khi Lén
@@ -491,7 +480,6 @@ gui.xaero_waypoint_server_shared=Máy Chủ
 gui.xaero_waypoint_somebody_shared=Ai Đó
 gui.xaero_tracked_players=Hiển Thị Người Chơi Được Theo Dõi
 gui.xaero_box_tracked_players=Hiển thị người chơi mà vị trí của họ được chia sẻ với bạn theo cách này hay cách khác (thường là đồng minh/cùng đội của bạn) khi họ ở ngoài phạm vi của bản đồ mini hoặc không hiển thị vì lý do khác.
-gui.xaero_toggle_tracked_players=Chuyển đổi Hiển thị Người Chơi Được Theo Dõi
 gui.xaero_toggle_pac_chunk_claims=Chuyển đổi Hiển thị Quyền Sở Hữu Chunk
 gui.xaero_pac_marked_for_forceload=(Có thể Tải Buộc)
 gui.xaero_pac_claim_tooltip=Quyền sở hữu của %1$s%2$s
